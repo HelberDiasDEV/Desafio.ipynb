@@ -66,5 +66,3 @@ A ideia é começar pelos fundamentos e evoluir progressivamente para problemas 
 Cada desafio representa uma etapa do processo de aprendizado e busca transformar conceitos teóricos em código funcional.
 
 ---
-
-> **Aprender a programar é transformar problemas em soluções, uma linha de código por vez.** 🚀
